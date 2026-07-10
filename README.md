@@ -2,7 +2,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mostefai17&color=blue&style=flat-square)](https://github.com/mostefai17)
 
-## Self-taught Backend Developer and IT Support Student
+## Backend Developer
 
 > Self-taught backend developer and IT support student with hands-on experience in various programming languages and frameworks. Skilled in developing applications using modern technologies and providing technical support to users. Passionate about building cloud-native applications and enhancing user experiences through technology.
 
@@ -17,7 +17,7 @@
 
 ### 📚 Currently Learning
 
-Backend development with Python and Flask, cloud-native application development using Kubernetes, OpenShift, and Istio.
+cloud-native application development using Kubernetes, OpenShift, and Istio.
 
 ### 🤝 Looking to Collaborate
 
