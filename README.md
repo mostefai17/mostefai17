@@ -2,7 +2,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mostefai17&color=blue&style=flat-square)](https://github.com/mostefai17)
 
-## Backend Developer
+## Self-taught Backend Developer and IT Support Student
 
 > Self-taught backend developer and IT support student with hands-on experience in various programming languages and frameworks. Skilled in developing applications using modern technologies and providing technical support to users. Passionate about building cloud-native applications and enhancing user experiences through technology.
 
@@ -17,7 +17,7 @@
 
 ### 📚 Currently Learning
 
-cloud-native application development using Kubernetes, OpenShift, and Istio.
+Backend development with Python and Flask, cloud-native application development using Kubernetes, OpenShift, and Istio.
 
 ### 🤝 Looking to Collaborate
 
@@ -41,13 +41,7 @@ Backend development with Python and Django, troubleshooting hardware and softwar
 
 ### 🌐 Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostefaiilyes799@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mostefai17)
-
-### ✍️ Blog & Content
-
-### 💖 Support My Work
-
-### ⚡ Fun Fact
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostefaiilyes799@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/https://x.com/MohammedIlyes47) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/m-i-mostefai-5395ab36b/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mostefai17)
 
 ---
 
