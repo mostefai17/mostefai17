@@ -4,7 +4,7 @@
 
 ## Backend Developer
 
-> Self-taught backend developer and IT support student with hands-on experience in various programming languages and frameworks. Skilled in developing applications using modern technologies and providing technical support to users. Passionate about building cloud-native applications and enhancing user experiences through technology.
+> Self-taught backend developer and IT support | majoring in Data mangements and BI with hands-on experience in various programming languages and frameworks. Skilled in developing applications using modern technologies and providing technical support to users. Passionate about building cloud-native applications and enhancing user experiences through technology.
 
 ### 🏢 Experience
 
